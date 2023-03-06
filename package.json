@@ -1,5 +1,5 @@
 {
-  "name": "dynamodb-localhost",
+  "name": "@open-universities-australia/dynamodb-localhost",
   "version": "1.0.0",
   "engines": {
     "node": ">=4.0"
