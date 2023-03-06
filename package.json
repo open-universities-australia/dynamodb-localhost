@@ -1,6 +1,6 @@
 {
   "name": "@open-universities-australia/dynamodb-localhost",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "node": ">=4.0"
   },
@@ -36,7 +36,7 @@
     "rimraf": "^2.7.1",
     "tar": "^4.4.19"
   },
-  "files" : [
+  "files": [
     "dynamodb"
   ]
 }
