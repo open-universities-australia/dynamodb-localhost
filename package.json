@@ -37,6 +37,8 @@
     "tar": "^4.4.19"
   },
   "files": [
-    "dynamodb"
+    "dynamodb",
+    "index.d.ts",
+    "index.js"
   ]
 }
